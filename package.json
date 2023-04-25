@@ -2,7 +2,7 @@
   "name": "Mantel-care",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://raminazmi.github.io/Mental-care1",
+  "homepage": "https://raminazmi.github.io/mentalcare",
   "dependencies": {
     "@headlessui/react": "^1.7.14",
     "@heroicons/react": "^2.0.17",

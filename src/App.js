@@ -5,7 +5,7 @@ import { useLocation, } from 'react-router-dom';
 import Register from './pages/Register/Register'
 import Verification from './pages/Verification/Verification'
 import RegisterTherapist from './pages/Register/RegisterTherapist'
-import Home from './pages/Home/Home'
+import mentalcare2023 from './pages/Home/Home'
 import Aos from 'aos';
 import 'aos/dist/aos.css';
 import Blog from './pages/Blog/Blog'
@@ -35,9 +35,9 @@ const App = () => {
     <>
       {showHeader && <Header />}
       <ToastContainer theme='colored' ></ToastContainer>
-      <Routes>
+      <Routes basename={'/mentalcare2023'}>
         <Route path="*" element={<Navigate to="/" />} />
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<mentalcare2023 />} />
         <Route path="blog" element={<Blog />} />
         <Route path="blog/:id" element={<BlogId />} />
         <Route path='/login' element={<Login />} />

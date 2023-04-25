@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "username": "eslam albaik",
+      "emailInput": "eslamahmad2000t@gmail.com",
+      "password": "eslamahmad2000t",
+      "address": "Ex debitis quia duci",
+      "date": "2023-04-06",
+      "image": "C:\\fakepath\\266696041_452001326336172_2709693293440088984_n.jpg",
+      "number": "624",
+      "id": 1
+    },
+    {
+      "username": "bajynofani",
+      "emailInput": "nadezus@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "address": "Quia aut quos doloru",
+      "date": "12-Oct-2015",
+      "image": "C:\\fakepath\\340256439_190464550417091_3206919351139535787_n.jpg",
+      "number": "435",
+      "id": 2
+    },
+    {
+      "username": "rami",
+      "emailInput": "rami@gmail.com",
+      "password": "rcqww43PkCGceHK",
+      "address": "Ex debitis quia duci",
+      "date": "2023-04-06",
+      "image": "C:\\fakepath\\340256439_190464550417091_3206919351139535787_n.jpg",
+      "number": "324",
+      "id": 3
+    },
+    {
+      "username": "kiharile",
+      "emailInput": "kucegogixa@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "address": "Perspiciatis modi a",
+      "date": "26-Jun-1988",
+      "image": "C:\\fakepath\\340256439_190464550417091_3206919351139535787_n.jpg",
+      "number": "521",
+      "id": 4
+    },
+    {
+      "username": "rasacebi",
+      "emailInput": "zyva@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "address": "Ut non impedit sunt",
+      "date": "19-Sep-1986",
+      "image": "C:\\fakepath\\271139483_663478051683318_1835506075866957115_n.png",
+      "number": "842",
+      "id": 5
+    },
+    {
+      "username": "kilicus",
+      "emailInput": "zopybanypi@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "address": "Facilis ad delectus",
+      "date": "30-Jun-2022",
+      "image": "C:\\fakepath\\c72be6a934204df7b5809af943a4a088.jpg",
+      "number": "473",
+      "id": 6
+    },
+    {
+      "username": "gakuparib",
+      "emailInput": "vuty@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "address": "Nulla harum neque qu",
+      "date": "02-Aug-2007",
+      "image": "C:\\fakepath\\favicon.ico",
+      "number": "794",
+      "id": 7
+    },
+    {
+      "username": "kaxac",
+      "emailInput": "rupe@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "address": "Cupidatat cumque eve",
+      "date": "08-Oct-1977",
+      "image": "C:\\fakepath\\favicon.ico",
+      "number": "54",
+      "id": 8
+    },
+    {
+      "username": "cywiheq",
+      "emailInput": "qawefiv@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "address": "Perferendis esse ull",
+      "date": "21-Dec-2009",
+      "image": "C:\\fakepath\\favicon.ico",
+      "number": "787",
+      "id": 9
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+body{
+  background-color: #F4F7FA;
+}
+.searchBar-wrap {
+  width:fit-content;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+
+}
+.searchBar-wrap form {
+  display: flex;
+  justify-content:center;
+  color:#858484
+}
+
+.searchBar-wrap input {
+  outline: none;
+  border: none;
+}
+.searchBar-wrap input::placeholder {
+  color: #858484;
+}
+.searchBar-wrap span {
+  padding-right: 0.5rem;
+  cursor: pointer;
+}
+
+.searchBar-wrap button {
+  outline: none;
+  border: none;
+  padding: 0 1rem;
+  border-radius: 5px;
+  color: #858484;
+}

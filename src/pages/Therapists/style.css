@@ -1,0 +1,50 @@
+body{
+    background-color: var(--third);
+}
+.online{
+    background: linear-gradient(to right, #dfefff, #7CFBAB) !important;
+}
+.offline{
+    background: linear-gradient(to right, #e6dada 40%, #727272) !important;
+}
+.Connected{
+    background-color: #7fee1d !important;
+}
+.Disconnected{
+    background-color: #a0a0a0 !important;
+}
+.range{
+    margin-top: 40px;
+    text-align: center;
+}
+.multi-range-slider {
+    display: flex;
+    position: relative;
+    border: none !important;
+    border-radius: 10px;
+    padding: 20px 50px;
+    box-shadow: none !important;
+    flex-direction: column;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    width: 100% !important;
+
+}
+.multi-range-slider .thumb .caption * {
+    position: absolute;
+    min-width: 30px;
+    height: 30px;
+    font-size: 75%;
+    text-align: center;
+    line-height: 30px;
+    background-color: var(--secondary) !important;
+    border-radius: 15px;
+    color: white;
+    padding: 0px 5px;
+    white-space: nowrap;
+}
+.multi-range-slider-step {
+    display: none;
+  }

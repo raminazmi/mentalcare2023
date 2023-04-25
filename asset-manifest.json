@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/mentalcare2023/static/css/main.7bb53386.css",
+    "main.js": "/mentalcare2023/static/js/main.bbea424e.js",
+    "static/media/p3.jpg": "/mentalcare2023/static/media/p3.6e79d7edd3a7b43e8ab5.jpg",
+    "static/media/p2.jpg": "/mentalcare2023/static/media/p2.ee6617c3bbaabfa6e200.jpg",
+    "static/media/p4.jpg": "/mentalcare2023/static/media/p4.55572ea78da55634a0ed.jpg",
+    "static/media/p7.jpg": "/mentalcare2023/static/media/p7.9d4f4a955fda1eb131f1.jpg",
+    "static/media/p5.jpg": "/mentalcare2023/static/media/p5.f41c4d1b242a9d084d02.jpg",
+    "static/media/p6.jpg": "/mentalcare2023/static/media/p6.1f3e2a391e8eb0ab30f9.jpg",
+    "static/media/p8.jpg": "/mentalcare2023/static/media/p8.b1f5addcbf2e0e360467.jpg",
+    "static/media/p1.jpg": "/mentalcare2023/static/media/p1.955fef8a1626dc546d8d.jpg",
+    "static/media/Mask Group 2.jpg": "/mentalcare2023/static/media/Mask Group 2.dff4bffa3fc9c05ef0a4.jpg",
+    "static/media/blog3.jpg": "/mentalcare2023/static/media/blog3.ef630727a723f7d11c4a.jpg",
+    "static/media/blog2.jpg": "/mentalcare2023/static/media/blog2.7e02a2e27ec56f4f4924.jpg",
+    "static/media/Polygon.png": "/mentalcare2023/static/media/Polygon.719a495c1445a2f4b28a.png",
+    "static/media/hero.png": "/mentalcare2023/static/media/hero.b59976966f354d08ea6d.png",
+    "static/media/1.png": "/mentalcare2023/static/media/1.bd44671e233ae69f4fed.png",
+    "static/media/email.png": "/mentalcare2023/static/media/email.b1611dbe1e4de8838d06.png",
+    "static/media/blog1.jpg": "/mentalcare2023/static/media/blog1.7d9a6e78a8abebce3607.jpg",
+    "static/media/hero-desktop.png": "/mentalcare2023/static/media/hero-desktop.5d6b7113eef807529531.png",
+    "static/media/nesma.webp": "/mentalcare2023/static/media/nesma.ead575f79a6a74040c21.webp",
+    "static/media/logo2.png": "/mentalcare2023/static/media/logo2.81c7aa79a01587d4455f.png",
+    "static/media/Path.png": "/mentalcare2023/static/media/Path.db23a7b2bc34275e9e71.png",
+    "static/media/TechSupport.jpg": "/mentalcare2023/static/media/TechSupport.f736e2f81e8c1c150202.jpg",
+    "static/media/revicons.eot": "/mentalcare2023/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/mentalcare2023/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/undraw_active_sup.svg": "/mentalcare2023/static/media/undraw_active_sup.ed792d7154d81d7087960a7dd830aa39.svg",
+    "static/media/revicons.woff": "/mentalcare2023/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/mentalcare2023/index.html",
+    "static/media/title_img.svg": "/mentalcare2023/static/media/title_img.2db945924eb5371aad6267b700d29046.svg",
+    "static/media/reverse-comma.svg": "/mentalcare2023/static/media/reverse-comma.2c026bc0577e0dba2b85f81198e42f0d.svg",
+    "static/media/sessions.svg": "/mentalcare2023/static/media/sessions.8878cf06ef78cf9874dfeff65578f0ae.svg",
+    "main.7bb53386.css.map": "/mentalcare2023/static/css/main.7bb53386.css.map",
+    "main.bbea424e.js.map": "/mentalcare2023/static/js/main.bbea424e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bb53386.css",
+    "static/js/main.bbea424e.js"
+  ]
+}

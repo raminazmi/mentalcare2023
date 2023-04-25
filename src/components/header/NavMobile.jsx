@@ -28,6 +28,15 @@ const NavMobile = () => {
         <li>
           <Link className='cursor-pointer' to='/terms'> كيف تحجز جلستك؟ </Link>
         </li>
+        <li className='ml-6 '>
+        <Link className='cursor-pointer hover:text-[hsl(154,96%,40%)] transition-all delay-200  ' to='/'> الرئيسية</Link>
+      </li>
+      <li>
+        <Link className='cursor-pointer hover:text-[#04C873]  transition-all delay-200 ' to='/therapists'>المعالجين </Link>
+      </li>
+      <li>
+        <Link className='cursor-pointer hover:text-[#04C873]  transition-all delay-200 ' to='/blog'> المدونة</Link>
+      </li>
         <li><button className='text-[#04C873] border border-[#04C873] rounded-[26px] py-3 px-6 text-xl font-medium leading-6
         hover:bg-[#04C873] hover:text-white' >احجز  &nbsp; الأن</button></li>
       </ul>

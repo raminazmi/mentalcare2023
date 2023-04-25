@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mentalcare2023/static/css/main.7bb53386.css",
-    "main.js": "/mentalcare2023/static/js/main.bbea424e.js",
+    "main.css": "/mentalcare2023/static/css/main.fcedd8eb.css",
+    "main.js": "/mentalcare2023/static/js/main.0658543b.js",
     "static/media/p3.jpg": "/mentalcare2023/static/media/p3.6e79d7edd3a7b43e8ab5.jpg",
     "static/media/p2.jpg": "/mentalcare2023/static/media/p2.ee6617c3bbaabfa6e200.jpg",
     "static/media/p4.jpg": "/mentalcare2023/static/media/p4.55572ea78da55634a0ed.jpg",
@@ -31,11 +31,11 @@
     "static/media/title_img.svg": "/mentalcare2023/static/media/title_img.2db945924eb5371aad6267b700d29046.svg",
     "static/media/reverse-comma.svg": "/mentalcare2023/static/media/reverse-comma.2c026bc0577e0dba2b85f81198e42f0d.svg",
     "static/media/sessions.svg": "/mentalcare2023/static/media/sessions.8878cf06ef78cf9874dfeff65578f0ae.svg",
-    "main.7bb53386.css.map": "/mentalcare2023/static/css/main.7bb53386.css.map",
-    "main.bbea424e.js.map": "/mentalcare2023/static/js/main.bbea424e.js.map"
+    "main.fcedd8eb.css.map": "/mentalcare2023/static/css/main.fcedd8eb.css.map",
+    "main.0658543b.js.map": "/mentalcare2023/static/js/main.0658543b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bb53386.css",
-    "static/js/main.bbea424e.js"
+    "static/css/main.fcedd8eb.css",
+    "static/js/main.0658543b.js"
   ]
 }
